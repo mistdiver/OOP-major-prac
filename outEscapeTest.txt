@@ -1,0 +1,52 @@
+You find yourself in a dungeon. It's dark and cold. You need to escape.
+Find the exit, but be wary of what lurks in the darkness.
+
+To move input the directions 'north', 'south', 'east' and 'west'.
+In the event you need to defend yourself, input 'attack'.
+To remind yourself of your surroundings, input 'look'.
+To check your health, input 'status'.
+To recover your health, input 'rest'.
+In the event you find the exit, input 'escape'.
+Input 'help' to recall this information.
+
+
+What do you do?
+You tried to asdf
+There's a time and a place for everything... but not now
+
+What do you do?
+You move through the southern door.
+
+You look around the room. This is room: 0, 1
+You see a door on the north side and a door on the south side, and
+a door on the east side and a solid stone wall on the west side.
+
+What do you do?
+You move through the eastern door.
+
+You look around the room. This is room: 1, 1
+You see a door on the north side and a door on the south side, and
+a door on the east side and a door on the west side.
+
+What do you do?
+You move through the eastern door.
+
+You look around the room. This is room: 2, 1
+You see a door on the north side and a door on the south side, and
+a door on the east side and a door on the west side.
+
+What do you do?
+You move through the southern door.
+
+You look around the room. This is room: 2, 2
+You see a door on the north side and a door on the south side, and
+a door on the east side and a door on the west side.
+
+Shining down through a hole in ceiling of the room, you see a ray of glorious light
+Dangling from the hole is a rope. You can climb your way to freedom!
+
+What do you do?
+You climb the rope to the open air!
+You've escaped!
+
+
