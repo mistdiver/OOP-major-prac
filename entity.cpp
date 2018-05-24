@@ -1,3 +1,4 @@
+#include <iostream>
 #include "entity.h"
 #include <string>
 using namespace std;
@@ -9,19 +10,23 @@ entity::entity(){
 }
 
 //With input name constructor
-entity::entity(string InName){
+entity::entity(string InName)
+{
 	name = InName;
 	health = 1;
 }
 
 //Returns entity's name
-string entity::get_name(){
+string entity::get_name()
+{
 	return name;
 }
 
 //function decreases health of entities
-int entity::damage(){
+void entity::damage()
+{
 	health -= 1;
+	return;
 }
 
 
